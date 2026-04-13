@@ -1,4 +1,4 @@
-# 🚕 Rádio Táxi Mar & Sol
+# Rádio Táxi Mar & Sol
 
 Projeto desenvolvido em Java com o objetivo de simular o funcionamento de uma central de rádio táxi, aplicando conceitos de **orientação a objetos**, **arquitetura em camadas** e princípios do **SOLID**.
 
