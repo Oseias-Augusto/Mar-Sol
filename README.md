@@ -68,7 +68,6 @@ Fronteira → Controller → Service → Repository → Entidades
 
 * Programação Orientada a Objetos (POO)
 * Princípios **SOLID**
-* Separação de responsabilidades (SRP)
 * Baixo acoplamento entre camadas
 * Simulação de persistência em memória
 
